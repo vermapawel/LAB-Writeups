@@ -152,24 +152,18 @@ migrate 432
 
 We are not in PID 432
 
+<img width="720" height="382" alt="image" src="https://github.com/user-attachments/assets/4a8461ba-e805-4136-830e-4ecb4a3748f2" />
 
+<img width="720" height="413" alt="image" src="https://github.com/user-attachments/assets/bc3d8ba6-fb45-44a3-a98f-675b60fe06d5" />
 
+<img width="720" height="284" alt="image" src="https://github.com/user-attachments/assets/6e1f1c4c-dfc1-40d6-a4f1-6f70c9cd52df" />
 
+<img width="720" height="264" alt="image" src="https://github.com/user-attachments/assets/d0d721da-1f39-4e4f-aa36-dda6e0d16058" />
 
+We got the user flag
 
+<img width="720" height="338" alt="image" src="https://github.com/user-attachments/assets/889bec5f-27d9-47fa-8fb5-ddf8559999c5" />
 
+<img width="720" height="305" alt="image" src="https://github.com/user-attachments/assets/67cab43c-9aef-46f7-8b5e-04b2bb109568" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+We got the root flag as well.
